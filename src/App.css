@@ -133,3 +133,13 @@
 svg {
   fill: grey;
 }
+
+
+.createdby {
+  background-color: #000;
+  bottom: 0;
+  padding: 26px 0 24px;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
